@@ -1,0 +1,19 @@
+## Deployment Address
+Address: 0x1307d87b90EEfafe50Db205d32e09BcdE4327D64
+PrvKey: 0x779eef8265afa5496eb66a4990b9203d5d1d09ae1dfab8c699def597e26a8f0c
+mnemonic: "flower derive gauge nuclear venue useful cactus circle cradle enforce injury airport"
+keystore: {"address":"1307d87b90eefafe50db205d32e09bcde4327d64","id":"7977f543-17ce-4464-a794-89a2cde47b17","version":3,"crypto":{"cipher":"aes-128-ctr","cipherparams":{"iv":"c209fce9f6ca68a4a008565eaf7cbee9"},"ciphertext":"1d2c0f72b88fc09f651e2f73c9700ba18b5606c7362355dc4ef44c137e7aeb7d","kdf":"scrypt","kdfparams":{"salt":"5bcfbdf5c13df706a206d8e5b11c7c21263eb3c207df7cc47ad58192a4927366","n":131072,"dklen":32,"p":1,"r":8},"mac":"d9ac87b3fc0da115086f1c9072065684812b7211177ab05917a98a83d5b8485e"},"x-ethers":{"client":"ethers.js","gethFilename":"UTC--2024-02-04T04-53-30.0Z--1307d87b90eefafe50db205d32e09bcde4327d64","mnemonicCounter":"cd488a7886af8cb9de8dd34f7534e7ef","mnemonicCiphertext":"471ef0067b01d3a52e21d15961c2cda2","path":"m/44'/60'/0'/0/0","locale":"en","version":"0.1"}}
+
+## Trusted sequencer
+Address: 0xE8E903a15e377C825FFE14BBEcC6503348e06aa1
+PrvKey: 0x9bb879a020b1925480dc255ac67abfe5b45fa8a1b3a5bfe29292d5c298274734
+mnemonic: "base point follow detect uncle bargain galaxy brand know few guide ecology"
+keystore: {"address":"e8e903a15e377c825ffe14bbecc6503348e06aa1","id":"2f4539f8-747d-49b9-beda-daed4219098c","version":3,"crypto":{"cipher":"aes-128-ctr","cipherparams":{"iv":"c3559cda52bb7a662163759663480a14"},"ciphertext":"c44b37bcfab6c61be526b670b2a3fbba5d2bdc788250a0e612d1ca811033b6ce","kdf":"scrypt","kdfparams":{"salt":"e73b6e33ee923591c21c1e90a9470036af3025e958afe01b7dc902e28e1ba86b","n":131072,"dklen":32,"p":1,"r":8},"mac":"94c1faadae08f79aa20473bf6918811e435b7a1365192a5333b4ef6d5df8805e"},"x-ethers":{"client":"ethers.js","gethFilename":"UTC--2024-02-04T04-53-31.0Z--e8e903a15e377c825ffe14bbecc6503348e06aa1","mnemonicCounter":"ab301db4ee26dc54a39e851988087a1b","mnemonicCiphertext":"68367007673a2c5c071b5c9373add9f6","path":"m/44'/60'/0'/0/0","locale":"en","version":"0.1"}}
+
+## Trusted aggregator
+Address: 0x83A9C54C7858309669F666d60774b54372992bF1
+PrvKey: 0xe3020d0c2cb46353e4a6ad76c7a11e0eb35f9eb992774ad5717e23dcf644fb19
+mnemonic: "glass orbit gaze jungle hope banana chef wrap nest pledge tobacco capital"
+keystore: {"address":"83a9c54c7858309669f666d60774b54372992bf1","id":"fbb47510-abc9-4f63-9e9d-985f93aa379d","version":3,"crypto":{"cipher":"aes-128-ctr","cipherparams":{"iv":"dcc842973a321e712d98829742e168b2"},"ciphertext":"80760d62759da91ca442c07ea37129b6ec883aa7254d2171d56d2df588343e2e","kdf":"scrypt","kdfparams":{"salt":"eec108eceb5d3d5594b877edbaaca4173a1c4c26be3b4d02412729dfa5b6bbea","n":131072,"dklen":32,"p":1,"r":8},"mac":"8999399578950a16b055afdd402152e3428985c47258636e3a247cd20349b1fb"},"x-ethers":{"client":"ethers.js","gethFilename":"UTC--2024-02-04T04-53-33.0Z--83a9c54c7858309669f666d60774b54372992bf1","mnemonicCounter":"3ab3dd5fd0255968ec53ad87a12f3906","mnemonicCiphertext":"3dba3d763ade3cee44b4e2d60640436b","path":"m/44'/60'/0'/0/0","locale":"en","version":"0.1"}}
+
+

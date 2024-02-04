@@ -1,0 +1,22 @@
+{
+ "polygonZkEVMAddress": "0x6918269Be0c377Dc6280855CD934a76B9B4aA597",
+ "polygonZkEVMBridgeAddress": "0x16eDc524DD88ABc7551B101a04624cEBb53521bc",
+ "polygonZkEVMGlobalExitRootAddress": "0x43Fff8fa44DdD6dDE866F1EC4D42477aCDea180E",
+ "maticTokenAddress": "0x6Be539DC22Fe6b9d5ac33BBD86A8984F69CF101D",
+ "verifierAddress": "0x001d4Aa7c542f046DB1fe7e54f2F23FA096B3377",
+ "zkEVMDeployerContract": "0x086Eb270a2fd8b048A1766d3EeAfe2d4355f04B3",
+ "deployerAddress": "0x2f65B38da55DDA1d6549a2f4d5a12D6963168A68",
+ "timelockContractAddress": "0xc61776ed2996D09309b57D9665c17fFDB7A73468",
+ "deploymentBlockNumber": 5217146,
+ "genesisRoot": "0xa8fd2f3d8ec9f317209d4276643f81bd02e08fc2d5ee5788f0c1a776e6367f8b",
+ "trustedSequencer": "0xeE7D0CF3a83e8fa70ad2B635A894EAbf6596C60b",
+ "trustedSequencerURL": "http://84.247.161.133:8545",
+ "chainID": 388500,
+ "networkName": "firechain-zkevm-ghostrider",
+ "admin": "0x2f65B38da55DDA1d6549a2f4d5a12D6963168A68",
+ "trustedAggregator": "0x99E6f8a80EBE5fc1b9e7B3b58A3876D9062190A7",
+ "proxyAdminAddress": "0x5a550D53Da447eA1f4f32F027EC2c3140Fd0ab38",
+ "forkID": 11155111,
+ "salt": "0x0000000000000000000000000000000000000000000000000000000000000000",
+ "version": "1.0.0"
+}
